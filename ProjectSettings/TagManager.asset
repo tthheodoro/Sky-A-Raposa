@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spike
+  - MovingPlat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - Ground
+  - Meio
+  - 
+  - Item
+  - EnemyFrog
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2538738575
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Meio
+    uniqueID: 3706027729
+    locked: 0
+  - name: Foreground
+    uniqueID: 2090114989
+    locked: 0
